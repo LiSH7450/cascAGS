@@ -50,3 +50,4 @@ In this section, we present the observed SNP frequency and the expected frequenc
 
 <img src="./Figures/Observed_expected_freqency.png" alt="Fig.6 The observed SNP frequency and the expected frequency estimated by LCM" style="width:800px; height:auto; background-color: transparent;">
 
+
