@@ -43,7 +43,7 @@ In this section, we present the sensitivity and false positive rate of all calli
 #### Residual Analysis
 In this section, we present the residuals corresponding to the three assumptions mentioned earlier. For any two calling methods, we calculate the Pearson correlation coefficients of the observed frequency and the expected frequency, respectively. The expected frequency is obtained through LCM, and the difference between the two is called the residual. <span style="color: red; font-family: Arial;">The closer the residual is to zero, the more accurate the estimate obtained based on this assumption.</span> Readers can also obtain this graphic by clicking <span style="color: blue; font-family: Consolas;">Download PNG</span> or <span style="color: blue; font-family: Consolas;">Download PDF</span>.
 
-<img src="./Figures/Residual_plot.png" alt="Fig.5 Correlation residual style="width:800px; height:auto; background-color: transparent;">
+<img src="./Figures/Residual_plot.png" alt="Fig.5 Correlation residual" style="width:800px; height:auto; background-color: transparent;">
 
 #### SNP Count Estimation
 In this section, we present the observed SNP frequency and the expected frequency estimated by LCM under three assumptions to illustrate the impact of dependency assumptions on the performance of LCM estimation. In addition, readers can check the original function themselves to obtain the class probability estimated by LCM to judge the accuracy of single or two calling methods. The final results can be obtained by clicking <span style="color: blue; font-family: Consolas;">Download CSV</span>.
