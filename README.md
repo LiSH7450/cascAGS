@@ -26,7 +26,7 @@ To illustrate its practical application, we provide three example data, namely, 
 
 ### Analysis Results & Visualization
 #### Data Upload & Settings
-In this section, you can upload your file and set the total number of base count or individuals involved in your trial.
+In this section, you can upload your file and set the total number of base counts or individuals involved in your trial.
 
 <img src="./Figures/Data_input.png" alt="Fig.2 Data upload and the total number of bases settings" style="width:800px; height:auto; background-color: transparent;">
 
