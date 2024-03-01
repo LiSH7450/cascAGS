@@ -48,6 +48,6 @@ In this section, we present the residuals corresponding to the three assumptions
 #### SNP Count Estimation
 In this section, we present the observed SNP frequency and the expected frequency estimated by LCM under three assumptions to illustrate the impact of dependency assumptions on the performance of LCM estimation. In addition, readers can check the original function themselves to obtain the class probability estimated by LCM to judge the accuracy of single or two calling methods. The final results can be obtained by clicking <span style="color: blue; font-family: Consolas;">Download CSV</span>.
 
-<img src="./Figures/Observed_expected_freqency.png" alt="Fig.6 The observed SNP frequency and the expected frequency estimated by LCM" style="width:800px; height:auto; background-color: transparent;">
+<img src="./Figures/Observed_expected_frequency.png" alt="Fig.6 The observed SNP frequency and the expected frequency estimated by LCM" style="width:800px; height:auto; background-color: transparent;">
 
 
